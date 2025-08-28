@@ -3,7 +3,7 @@ title: Golden Cleaning Services
 layout: home
 description: Golden Cleaning Services is Central Florida's premier cleaning service. Homes, apartments, offices, airbnb and more! We do it all!
 # intro_image: "images/CleaningLady2.svg"
-intro_image: "images/logo/GCSLogoColor.svg"
+intro_image: "images/CleaningLady3.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
