@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'Golden Cleaning Services'
+page_excerpts: true
 
 logo:
   mobile: "images/logo/GCSLogoColor.svg"
@@ -37,6 +38,9 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
