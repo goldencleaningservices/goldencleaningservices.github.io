@@ -3,10 +3,10 @@ permalink: pretty
 title: 'Golden Cleaning Services'
 
 logo:
-  mobile: "images/logo/logo.svg"
+  mobile: "images/logo/GCSLogoColor.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
+  desktop: "images/logo/GCSLogoColor.svg"
   desktop_height: "120px"
   desktop_width: "120px"
 
