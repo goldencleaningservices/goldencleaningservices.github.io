@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: "gcs.0x420.com"
 permalink: pretty
-title: 'Golden Cleaning Services'
+title: "Golden Cleaning Services"
 
 logo:
   mobile: "images/logo/GCSLogoColor.svg"
