@@ -1,10 +1,10 @@
 ---
-title: "Natasha Natal"
+title: "Crystal Natal"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/natasha-natal-unsplash.jpg"
-jobtitle: "Owner / Lead Cleaner"
+image: "images/team/crystal-natal-unsplash.jpg"
+jobtitle: "Co-Owner"
 promoted: true
-weight: 1
+weight: 2
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
