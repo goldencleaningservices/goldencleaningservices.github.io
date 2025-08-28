@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: Golden Cleaning Services
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+description: Golden Cleaning Services is Central Florida's premier cleaning service. Homes, apartments, offices, airbnb and more! We do it all!
+# intro_image: "images/CleaningLady2.svg"
+intro_image: "images/GCSLogoColor.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Golden Cleaning Services - The gold standard in cleaning.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Golden Cleaning Services contains ingredients that the state of California believes are carcinogenic
