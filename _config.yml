@@ -1,4 +1,5 @@
-baseurl: '/'
+baseurl: ''
+url: "https://goldencleaningservices.github.io"
 permalink: pretty
 title: 'Golden Cleaning Services'
 page_excerpts: true
